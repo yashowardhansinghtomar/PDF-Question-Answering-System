@@ -12,7 +12,7 @@ PyPDF2
 spacy
 
 # Database (FAISS)
-faiss
+faiss-cpu
 
 # Large Language Model (ChatGroq)
 chatgroq
