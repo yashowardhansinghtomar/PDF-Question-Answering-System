@@ -13,6 +13,7 @@ spacy
 
 # Database (FAISS)
 faiss-cpu
+faiss-gpu
 
 # Large Language Model (ChatGroq)
 chatgroq
