@@ -1,0 +1,21 @@
+streamlit
+
+# Text Processing
+langchain
+langchain-community
+langchain-groq
+
+# PDF Reading
+PyPDF2
+
+# Vector Embeddings (spaCy)
+spacy
+
+# Database (FAISS)
+faiss
+
+# Large Language Model (ChatGroq)
+chatgroq
+
+# Optional: Suppress TensorFlow warnings
+tensorflow>=2.2.0  # Adjust version if needed
