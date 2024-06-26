@@ -1,15 +1,6 @@
 streamlit
-
 langchain
 langchain-community
 langchain-groq
-
 PyPDF2
-
 spacy
-
-FAISS
-
-chatgroq
-
-tensorflow>=2.2.0 
